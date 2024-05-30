@@ -104,9 +104,7 @@ To fetch prime numbers, use the dropdown to select "Prime" and click the "Fetch 
 
 2. **Deploy the contents of the `build` directory** to your web server.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
